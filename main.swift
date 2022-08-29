@@ -1,0 +1,2 @@
+View().lounchScreen()
+View().initialScreen()
